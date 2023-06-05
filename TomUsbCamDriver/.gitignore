@@ -1,0 +1,9 @@
+/build
+*.cmd
+*.o
+*.ko
+*.symvers
+*.order
+*.a
+*.mod*
+*_Backup.c
